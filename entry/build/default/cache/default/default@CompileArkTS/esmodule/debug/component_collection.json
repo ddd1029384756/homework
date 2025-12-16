@@ -1,0 +1,17 @@
+{
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Index.ets": [
+    "Row",
+    "Column",
+    "Text",
+    "Button"
+  ],
+  "entry\\src\\main\\ets\\pages\\Second.ets": [
+    "Row",
+    "Column",
+    "Text",
+    "Button"
+  ]
+}
